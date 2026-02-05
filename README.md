@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>A full-stack Grocery Store Web Application (MERN) with real-world features like payments, admin panel, and real-time updates<br><br>👯 I’m looking to collaborate on<br>MERN stack projects<br>React-based frontend applications<br>Beginner-friendly open-source contributions<br><br>🤝 I’m looking for help with<br>Writing clean, scalable backend APIs<br>Improving project architecture for production<br><br>🌱 I’m currently learning<br>Backend security best practices<br>WebSockets & real-time systems<br><br>
+<br>👯 I’m looking to collaborate on<br>Data-driven web applications and dashboards<br>React-based frontend applications<br>Beginner-friendly open-source contributions<br><br>🤝 I’m looking for help with<br>Designing clean, scalable backend APIs using Python
+<br>Structuring projects for production-ready deployments
+<br><br>🌱 I’m currently learning<br>Backend security best practices<br>WebSockets & real-time systems<br><br>
 
 
 ## 🌐 Socials:
