@@ -1,8 +1,6 @@
 # 💫 About Me:
-<br>👯 I’m looking to collaborate on<br>Data-driven web applications and dashboards<br>React-based frontend applications<br>Beginner-friendly open-source contributions<br><br>🤝 I’m looking for help with<br>Designing clean, scalable backend APIs using Python
+<br>👯 I’m looking to collaborate on<br>Data-driven applications and dashboards<br><br>Beginner-friendly open-source contributions<br><br>🤝 I’m looking for help with<br>Designing clean, scalable backend APIs using Python
 <br>Structuring projects for production-ready deployments
-<br><br>🌱 I’m currently learning<br>Backend security best practices<br>WebSockets & real-time systems<br><br>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dreamyintellect_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/divya-gokhale-785787316) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divyagokhale1234@gmail.com) 
