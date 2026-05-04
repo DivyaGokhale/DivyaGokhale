@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👯 I’m looking to collaborate on<br>Data-driven applications and dashboards<br><br>Beginner-friendly open-source contributions<br><br>🤝 I’m looking for help with<br>Designing clean, scalable backend APIs using Python
+<br>👯 I’m looking to collaborate on<br>Data-driven applications and dashboards<br>Beginner-friendly open-source contributions<br>🤝 I’m looking for help with<br>Designing clean, scalable backend APIs using Python
 <br>Structuring projects for production-ready deployments
 
 ## 🌐 Socials:
